@@ -46,7 +46,7 @@ The plantext file:
     		chương trình không nằm trong đĩa /máy được quy ước, ...)
     		thì không chạy /tự hủy /gây lỗi hệ thống, ...)
 
-**Qoal:**
+**Goal:**
 
 Xây dựng chương trình mã hóa & giải mã một tâp tin thỏa:
 
